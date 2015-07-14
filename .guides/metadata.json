@@ -1,0 +1,22 @@
+{
+ "sections": [
+  {
+   "id": "efdda24a-39c9-f704-4b9d-af6bb6c723c4",
+   "title": "Section 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-1-efdd.md"
+  },
+  {
+   "id": "2881b745-a8ca-f537-9611-64c4d812f27",
+   "title": "What we'll learn",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-2881.md"
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": []
+}

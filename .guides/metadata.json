@@ -2,11 +2,11 @@
  "sections": [
   {
    "id": "efdda24a-39c9-f704-4b9d-af6bb6c723c4",
-   "title": "Section 1",
+   "title": "Recap",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Section-1-efdd.md"
+   "content-file": ".guides/content/Recap-efdd.md"
   },
   {
    "id": "2881b745-a8ca-f537-9611-64c4d812f27",
@@ -15,6 +15,78 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-we-ll-learn-2881.md"
+  },
+  {
+   "id": "1acb3e8c-2f87-6737-70b5-82b637ca987",
+   "title": "Printing out information",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Printing-out-information-1acb.md"
+  },
+  {
+   "id": "11dd2a9c-fbf2-79b4-c8a8-49aba0aeb308",
+   "title": "Outputting strings to a file",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Outputting-strings-to-a-file-11dd.md"
+  },
+  {
+   "id": "e7b84f-2fee-ae8d-9bc5-fcab7e54859b",
+   "title": "Echoing to a file",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Echoing-to-a-file-e7b8.md"
+  },
+  {
+   "id": "87109b72-1c24-1a3c-b586-aacb172a9f09",
+   "title": "The stdout redirection utility in depth",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-stdout-redirection-utility-in-depth-8710.md"
+  },
+  {
+   "id": "44f470d4-8610-19ea-436e-146573f34a06",
+   "title": "Practical uses of the > utility",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Practical-uses-of-the---utility-44f4.md"
+  },
+  {
+   "id": "8f01f911-d2a5-e56b-fed-e4f41d39637b",
+   "title": "Reading file content in the CLI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Reading-file-content-in-the-CLI-8f01.md"
+  },
+  {
+   "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
+   "title": "Challenge: Echo and read",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-11-ba3c.md"
+  },
+  {
+   "id": "bdc42457-9b97-2ee1-d57c-b02d3c11a5c6",
+   "title": "The pipe character",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-pipe-character-bdc4.md"
+  },
+  {
+   "id": "c2c71d6-714d-dc67-fd6d-ef78fb48ead1",
+   "title": "Shortcut: Command history search",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shortcut--Command-history-search-c2c7.md"
   }
  ],
  "theme": "charcoal",

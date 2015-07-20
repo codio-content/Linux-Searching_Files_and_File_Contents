@@ -1,18 +1,14 @@
-## Setting file permissions
+## Writing and exploring files
 
-By the end of this unit you will learn:
+By knowing how to navigate and edit the file system directly from the CLI, the next step would be to know how to read, write and search within files.
 
-- Understand and set user permissions
-- Explore file content using the CLI
-- Running multiple commands with the pipe syntax
+By the end of this unit you'll be able to:
 
-Possible topics:
-
-- installing software from source
-- running software from source
-- ssh
-- regular expressions
-- find
-- grep
-- the sudo command
-- Editing file content from the CLI with vim
+1. Echo text strings
+2. Write text to files directly from the CLI
+3. Concatenate text to the same file
+4. Read files on the CLI
+5. Search for text patterns in the specified file
+6. Execute multiple commands at once
+7. Search through the bash command history
+8. Delete entire words typed on the command prompt

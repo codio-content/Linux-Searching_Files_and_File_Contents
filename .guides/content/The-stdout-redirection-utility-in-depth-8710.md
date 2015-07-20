@@ -9,13 +9,13 @@ This bash utility creates the file specified by the argument name if not present
 
 The `>` character can also be used for creating empty files, having the same effect as the `touch` command. 
 
-Create a _hi.txt_ empty file on your `~/workspace` directory:
+Create a _hi.txt_ empty file in your `~/workspace` directory:
 
 ```
 > hi.txt
 ```
 
-Open the new _hi.txt_ file to confirm that is empty and overwrite it by adding content on it: 
+Open the new _hi.txt_ file to confirm that it is empty and overwrite it by adding content on it: 
 
 ```
 echo -e 'Hi.\nThis is world!' > hi.txt

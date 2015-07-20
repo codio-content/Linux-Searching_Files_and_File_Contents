@@ -49,6 +49,14 @@
    "content-file": ".guides/content/The-stdout-redirection-utility-in-depth-8710.md"
   },
   {
+   "id": "543e697c-5275-894b-96e9-b3e3870ed81",
+   "title": "Challenge: Echo to files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Echo-to-files-543e.md"
+  },
+  {
    "id": "44f470d4-8610-19ea-436e-146573f34a06",
    "title": "Practical uses of the > utility",
    "files": [],
@@ -65,12 +73,60 @@
    "content-file": ".guides/content/Reading-file-content-in-the-CLI-8f01.md"
   },
   {
-   "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
-   "title": "Challenge: Echo and read",
+   "id": "9855f5b3-aed2-cdd4-9930-2b403fa582cc",
+   "title": "Content concatenation",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-11-ba3c.md"
+   "content-file": ".guides/content/Content-concatenation-9855.md"
+  },
+  {
+   "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
+   "title": "Challenge: Content concatenation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Content-concatenation-ba3c.md"
+  },
+  {
+   "id": "93f2c2df-de85-30c2-3c94-8d023386ee5f",
+   "title": "Finding files and directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Finding-files-and-directories-93f2.md"
+  },
+  {
+   "id": "952b6d8-29da-998e-da87-fa40439e86bd",
+   "title": "Find command in depth",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Find-command-in-depth-952b.md"
+  },
+  {
+   "id": "109a74f4-fd69-b94a-1f83-8f442fe3ccf4",
+   "title": "Challenge: Find command",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Find-command-109a.md"
+  },
+  {
+   "id": "460e3327-b808-5182-c47d-b222caa1e0e",
+   "title": "Finding file content",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Finding-file-content-460e.md"
+  },
+  {
+   "id": "fddee3a-3ec4-9422-3e0-1301717f83cc",
+   "title": "Grep command in depth",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-18-fdde.md"
   },
   {
    "id": "bdc42457-9b97-2ee1-d57c-b02d3c11a5c6",

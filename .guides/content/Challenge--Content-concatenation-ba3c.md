@@ -1,4 +1,4 @@
-## Concatenating four project changelog
+## Concatenating files to our project changelog
 
 |||challenge
 This time, the name for the `bashtest` challenge to be executed is hidden within a file.

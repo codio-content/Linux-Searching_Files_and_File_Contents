@@ -16,7 +16,7 @@ Lets print out the string 'Hello world!' in the CLI:
 echo 'Hello world!'
 ```
 
-The result of the `echo` is just a _text string_ written on a new line. 
+The result of the `echo` command is just a _text string_ written on a new line. 
 
 |||
 ### Text string

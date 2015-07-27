@@ -17,7 +17,7 @@ __Definition:__ The `cat` command prints file content to the _stdout_.
 
 After executing the aforementioned command, it may seem that we are executing the `ls -alhF` command on the _workspace_ directory, but is the content of the _file-list.txt_ file what we are actually looking at.
 
-Try overwriting the _file-list.txt_ content, executing `cat` afterwards and then do a `ls` command:
+Try overwriting the _file-list.txt_ content with a simple `ls` command, executing `cat` afterwards and then do a `ls` command to see the differences of the output:
 
 ```
 codio ~/workspace $ ls > file-list.txt

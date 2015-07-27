@@ -20,7 +20,7 @@ The `grep` command returns content within the specified files that matches _regu
 
 In order to master _regexps_ a whole course may need to be designed, however, it is easy to get started with simple patterns. 
 
-Compare the content of the _hello.txt_ file against the output of the following command line:
+Compare the output of the following command line with the content of the _hello.txt_ file:
 
 ```
 grep 'world' hello.txt

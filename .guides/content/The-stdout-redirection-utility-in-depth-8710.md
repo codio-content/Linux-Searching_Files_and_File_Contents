@@ -31,3 +31,5 @@ Open the _hi.txt_ file to see the result of adding the `\n` to the string:
 Hi.
 This is world!
 ```
+
+Have you tried removing the `echo -e` option?

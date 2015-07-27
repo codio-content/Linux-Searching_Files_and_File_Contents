@@ -18,9 +18,7 @@ __Concatenate or append the *hi.txt* file content to the *hello.txt* content:__
 cat hi.txt >> hello.txt
 ```
 
-Open the _hello.txt_ file to see the changes. 
-
-You could open the _hi.txt_ file to confirm that the content is still there too. 
+Open the _hello.txt_ file to see the changes and open the _hi.txt_ file to confirm that the content is still there too. 
 
 |||definition
 ### Command: 

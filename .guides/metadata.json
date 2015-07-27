@@ -6,7 +6,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Recap-efdd.md"
+   "content-file": ".guides/content/Recap-efdd.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "2881b745-a8ca-f537-9611-64c4d812f27",
@@ -14,7 +16,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/What-we-ll-learn-2881.md"
+   "content-file": ".guides/content/What-we-ll-learn-2881.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "1acb3e8c-2f87-6737-70b5-82b637ca987",
@@ -22,7 +26,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Printing-out-information-1acb.md"
+   "content-file": ".guides/content/Printing-out-information-1acb.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "11dd2a9c-fbf2-79b4-c8a8-49aba0aeb308",
@@ -30,7 +36,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Outputting-strings-to-a-file-11dd.md"
+   "content-file": ".guides/content/Outputting-strings-to-a-file-11dd.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "e7b84f-2fee-ae8d-9bc5-fcab7e54859b",
@@ -38,7 +46,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Echoing-to-a-file-e7b8.md"
+   "content-file": ".guides/content/Echoing-to-a-file-e7b8.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "87109b72-1c24-1a3c-b586-aacb172a9f09",
@@ -46,7 +56,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-stdout-redirection-utility-in-depth-8710.md"
+   "content-file": ".guides/content/The-stdout-redirection-utility-in-depth-8710.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "543e697c-5275-894b-96e9-b3e3870ed81",
@@ -54,7 +66,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Echo-to-files-543e.md"
+   "content-file": ".guides/content/Challenge--Echo-to-files-543e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "44f470d4-8610-19ea-436e-146573f34a06",
@@ -62,7 +76,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Practical-uses-of-the---utility-44f4.md"
+   "content-file": ".guides/content/Practical-uses-of-the---utility-44f4.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "8f01f911-d2a5-e56b-fed-e4f41d39637b",
@@ -70,7 +86,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Reading-file-content-in-the-CLI-8f01.md"
+   "content-file": ".guides/content/Reading-file-content-in-the-CLI-8f01.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "9855f5b3-aed2-cdd4-9930-2b403fa582cc",
@@ -78,7 +96,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Content-concatenation-9855.md"
+   "content-file": ".guides/content/Content-concatenation-9855.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
@@ -86,7 +106,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Content-concatenation-ba3c.md"
+   "content-file": ".guides/content/Challenge--Content-concatenation-ba3c.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "93f2c2df-de85-30c2-3c94-8d023386ee5f",
@@ -94,7 +116,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Finding-files-and-directories-93f2.md"
+   "content-file": ".guides/content/Finding-files-and-directories-93f2.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "952b6d8-29da-998e-da87-fa40439e86bd",
@@ -102,7 +126,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Find-command-in-depth-952b.md"
+   "content-file": ".guides/content/Find-command-in-depth-952b.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "109a74f4-fd69-b94a-1f83-8f442fe3ccf4",
@@ -110,7 +136,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Find-command-109a.md"
+   "content-file": ".guides/content/Challenge--Find-command-109a.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "460e3327-b808-5182-c47d-b222caa1e0e",
@@ -118,7 +146,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Finding-file-content-460e.md"
+   "content-file": ".guides/content/Finding-file-content-460e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "fddee3a-3ec4-9422-3e0-1301717f83cc",
@@ -126,15 +156,29 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-18-fdde.md"
+   "content-file": ".guides/content/Grep-command-in-depth-fdde.md",
+   "chapter": false,
+   "reset": []
   },
   {
-   "id": "bdc42457-9b97-2ee1-d57c-b02d3c11a5c6",
-   "title": "The pipe character",
+   "id": "1c275e3-a149-44fc-b8a7-14bc83954dba",
+   "title": "More about grep",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-pipe-character-bdc4.md"
+   "content-file": ".guides/content/More-about-grep-1c27.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "dca6b21-11f9-ec77-2a13-873875a3433d",
+   "title": "Combining commands",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Combining-commands-dca6.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "c2c71d6-714d-dc67-fd6d-ef78fb48ead1",
@@ -142,7 +186,19 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Command-history-search-c2c7.md"
+   "content-file": ".guides/content/Shortcut--Command-history-search-c2c7.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "5b59b453-46cb-1ed6-d76e-adbf1d564ec1",
+   "title": "Challenge: Grep command",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge---5b59.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "charcoal",

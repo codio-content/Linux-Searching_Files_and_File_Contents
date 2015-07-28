@@ -75,7 +75,9 @@
     }
    ],
    "layout": "2-panels-tree",
-   "path": [],
+   "path": [
+    "~/workspace/project-log"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge--Echo-to-files-543e.md",
    "chapter": false,

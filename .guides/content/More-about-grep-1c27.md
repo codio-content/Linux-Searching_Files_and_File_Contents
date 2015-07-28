@@ -9,7 +9,7 @@ __Display only filenames:__
 grep -l 'world' *.txt
 ```
 
-__Combine the only filenames option with the case-insensitive option:__
+__Combine the _only-filenames_ option with the case-insensitive option:__
 
 ```
 grep -il 'hello' *.txt
@@ -34,4 +34,14 @@ __Show lines after your grep pattern match:__
 # Show 2 lines -A fter the starting line with 'hi' 
 # case-insensitive plus line-numbers
 grep -A2 -ni '^hi' hello.txt
+```
+
+__Get the differences between the content of two or more files:__
+
+```
+# -F interprets fixed patterns, need to match exactly
+# -x matches entire lines
+# -v selected lines are those not matching any of the specified patterns
+# -f read one or more newline separated patterns from file
+grep -Fxvf hi.txt hello.txt
 ```

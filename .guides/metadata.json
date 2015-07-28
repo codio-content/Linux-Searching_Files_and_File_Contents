@@ -41,6 +41,16 @@
    "reset": []
   },
   {
+   "id": "4e3518f7-59a6-f032-fa25-dbfa263d58bb",
+   "title": "Echoing command outputs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Echoing-command-outputs-4e35.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
    "id": "e7b84f-2fee-ae8d-9bc5-fcab7e54859b",
    "title": "Echoing to a file",
    "files": [],

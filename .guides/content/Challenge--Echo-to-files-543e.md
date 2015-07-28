@@ -1,12 +1,6 @@
 ## Creating a project changelog
 
-|||challenge
-Make sure you are on the `~/workspace` directory and execute:
-
-```
-bashtest echo-test
-```
-|||
+{Check It!|assessment}(test-2254145934)
 
 ### What is a _project changelog_?
 

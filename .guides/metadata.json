@@ -63,7 +63,18 @@
   {
    "id": "543e697c-5275-894b-96e9-b3e3870ed81",
    "title": "Challenge: Echo to files",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "cd project-log",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge--Echo-to-files-543e.md",
@@ -196,7 +207,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge---5b59.md",
+   "content-file": ".guides/content/Challenge--Grep-command-5b59.md",
    "chapter": false,
    "reset": []
   }

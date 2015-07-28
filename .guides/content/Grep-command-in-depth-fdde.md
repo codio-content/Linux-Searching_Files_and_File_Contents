@@ -2,12 +2,6 @@ Just as we did with the `find` command, the best way to understand the `grep` co
 
 Make sure you are on the `~/workspace` directory and:
 
-__Search for the word "world" in the hello.txt file:__
-
-```
-grep 'world' hello.txt
-```
-
 __Search for a string in multiple *.txt* files:__
 
 ```

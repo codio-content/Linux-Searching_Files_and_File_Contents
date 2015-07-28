@@ -1,0 +1,11 @@
+cli-4-3
+cli-4-3
+rm -r project-log/hidden-challenge.txt 
+clear
+find . -maxdepth 1 -type f -name "h*" > project-log/files-with-h.txt
+cli-4-3
+cli-4-3
+cli-4-3
+cd project-log/
+find . -path "*.txt"
+cli-4-3

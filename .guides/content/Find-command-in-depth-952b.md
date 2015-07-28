@@ -16,6 +16,13 @@ __Find the _hello.txt_ file location with a simple pattern match:__
 find /home -path "*hello*"
 ```
 
+__Find only file names that begin with the letter _h_ in the current directory :__
+
+```
+# ^ means: line begins with
+find . -type f -name "h*"
+```
+
 __Find files location by size in the `.` current directory:__
 
 ```

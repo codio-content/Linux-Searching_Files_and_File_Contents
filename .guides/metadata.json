@@ -3,7 +3,14 @@
   {
    "id": "efdda24a-39c9-f704-4b9d-af6bb6c723c4",
    "title": "Recap",
-   "files": [],
+   "files": [
+    {
+     "path": "mkdir project-log | workspace-startup 4",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap-efdd.md",

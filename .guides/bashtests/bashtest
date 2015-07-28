@@ -1,0 +1,9 @@
+#!/bin/bash
+# chmod files
+
+arg=$1
+
+file_count=$(ls /home/codio/workspace/.guides/bashtests/*.sh | wc -l)                                                                      
+for (( i = 1; i <= $file_count; i++ )); do                                                                                                 
+        chmod +x "/home/codio/workspace/.guides/bashtests/cli-$arg-$i.sh"                                                                     
+done

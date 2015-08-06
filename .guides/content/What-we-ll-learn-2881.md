@@ -8,7 +8,7 @@ By the end of this unit you'll be able to:
 2. Write text to files directly from the CLI
 3. Concatenate text to the same file
 4. Read files on the CLI
-6. Find files and directories by its name
-5. Search for text patterns in the specified file
+6. Find files and directories
+5. Search for text patterns in files
 6. Execute multiple commands at once
 7. Search through the bash command history

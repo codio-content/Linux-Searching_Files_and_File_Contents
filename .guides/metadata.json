@@ -5,7 +5,7 @@
    "title": "Recap",
    "files": [
     {
-     "path": "mkdir project-log | workspace-startup 4",
+     "path": "bashtest 4 | workspace-reset.sh workspace",
      "panel": 0,
      "action": "open"
     }

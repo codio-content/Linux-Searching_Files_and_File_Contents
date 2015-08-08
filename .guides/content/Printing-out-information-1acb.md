@@ -27,5 +27,5 @@ __Why didn't we use double quotes for the 'Hello world!' string?__
 
 The _bash_ interpreter has a special behaviour when using the `!` bang character for it searches the command history. Plus the fact that double quotes are used for string interpolation which we are going to cover on further units.
 
-The way that the `!` character needs to be _escaped_ is by using __single quotes__. 
+The way that the `!` character needs to be _echoed_ is by using __single quotes__.
 |||

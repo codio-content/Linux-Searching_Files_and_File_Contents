@@ -13,6 +13,7 @@ function init_workspace {
 
 function reset_workspace {
 	rm -r ${WORKSPACE}project-log
+    > ~/.bash_history
 	echo "Reseting project files and directories"
 	sleep 2
 	init_workspace

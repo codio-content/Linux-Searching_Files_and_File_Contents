@@ -80,7 +80,7 @@
   },
   {
    "id": "543e697c-5275-894b-96e9-b3e3870ed81",
-   "title": "Challenge: Echo to files",
+   "title": "Challenge",
    "files": [
     {
      "path": "#tabs",
@@ -97,7 +97,7 @@
     "~/workspace/project-log"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Echo-to-files-543e.md",
+   "content-file": ".guides/content/Challenge-543e.md",
    "chapter": false,
    "reset": []
   },
@@ -135,11 +135,11 @@
   },
   {
    "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
-   "title": "Challenge: Content concatenation",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Content-concatenation-ba3c.md",
+   "content-file": ".guides/content/Challenge-ba3c.md",
    "chapter": false,
    "reset": []
   },
@@ -166,11 +166,11 @@
   },
   {
    "id": "109a74f4-fd69-b94a-1f83-8f442fe3ccf4",
-   "title": "Challenge: Find command",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Find-command-109a.md",
+   "content-file": ".guides/content/Challenge-109a.md",
    "chapter": false,
    "reset": []
   },
@@ -227,7 +227,7 @@
   },
   {
    "id": "5b59b453-46cb-1ed6-d76e-adbf1d564ec1",
-   "title": "Challenge: Grep command",
+   "title": "Challenge",
    "files": [],
    "path": [],
    "type": "markdown",

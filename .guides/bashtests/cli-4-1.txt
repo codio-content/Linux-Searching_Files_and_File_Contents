@@ -1,15 +1,1 @@
 cli-4-1
-cli-4-1
-cli-4-1
-cli-4-1
-cli-4-1
-cli-4-1
-cli-4-1
-cli-4-1
-cli-4-1
-cli-4-1
-cd ..
-cat project-log/changelog.txt 
-cat project-log/changelog.txt 
-cat .guides/project-log-test/changelog.txt 
-cli-4-1

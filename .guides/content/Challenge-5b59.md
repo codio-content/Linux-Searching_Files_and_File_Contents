@@ -16,3 +16,10 @@ file-list.txt
 found.txt
 greet.txt
 ```
+
+|||guidance
+### Correct answers
+1. `echo -e "Version: 2.0\nusername: $(whoami)\n$(ls)" > project-log/diff.txt`
+2. `grep -Fxvf "project-log/changelog.txt" "project-log/diff.txt" >> project-log/changelog.txt`
+
+|||

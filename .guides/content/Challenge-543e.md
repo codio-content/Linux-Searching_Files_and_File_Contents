@@ -17,3 +17,10 @@ v1.1.0
 v2.0 
 
 Version names are associated with features being added or bugs being corrected, which makes code easier to maintain.
+
+|||guidance
+### Correct answers
+1. `echo -e "Changelog\nVersion: 1.0 > project-log/changelog.txt"`
+2. `ls > project-log/file-list.txt`
+
+|||

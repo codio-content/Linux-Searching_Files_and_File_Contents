@@ -1,0 +1,1 @@
+This is the end of the _Searching Files and File Contents_ unit. In the next unit you'll learn how to assign _read_, _write_ and _execution_ permissions to files and directories.

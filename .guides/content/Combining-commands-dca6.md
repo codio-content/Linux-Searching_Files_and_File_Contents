@@ -3,10 +3,10 @@
 __Definition:__ The pipe character allows us to input multiple commands at once by _passing the output of a command to another command_.
 
 #### Background:
-GNU/Linux, the technology over which the Codio terminal is running (you must not confuse it with _Bash_ which is the program running on the terminal) was designed to simultaneously run commands that perform small and specific tasks that result on more complex tasks.
+GNU/Linux, the technology over which the Codio terminal is running (you must not confuse it with _Bash_ which is the program running on the terminal) was designed to simultaneously run commands that perform small and specific tasks that result in more complex tasks.
 |||
 
-Lets understand this concept by performing a `grep` command for searching over the `ls` command output:
+Let's understand this concept by performing a `grep` command for searching over the `ls` command output:
 
 ```
 # On your ~/workspace folder:

@@ -4,7 +4,7 @@
 
 ### What is a _project changelog_?
 
-The approach of the forecoming challenges is to create a file that will contain a history of the changes made to our _project-log_ directory.
+Upcoming challenges will test you on being able to create a file that will contain a history of the changes made to our _project-log_ directory.
 
 When working on real world projects, files are constantly added and updated with code or text. 
 

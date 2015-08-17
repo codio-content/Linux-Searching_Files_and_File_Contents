@@ -24,15 +24,13 @@ grep -n 'world' hello.txt
 __Show lines before your grep pattern match:__
 
 ```
-# Show 2 lines -B efore the word: 'ET' 
 grep -B2 'ET' hello.txt
 ```
 
 __Show lines after your grep pattern match:__
 
 ```
-# Show 2 lines -A fter the starting line with 'hi' 
-# case-insensitive plus line-numbers
+# '-ni' case-insensitive plus line-numbers
 grep -A2 -ni '^hi' hello.txt
 ```
 

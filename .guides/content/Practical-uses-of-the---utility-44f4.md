@@ -1,8 +1,8 @@
 ## Printing useful information
 
-The `>` utility can be very helpful when requiring to get common outputs printed to a file instead of being printed to the CLI.
+The `>` utility can be very helpful when required to get common outputs printed to a file instead of being printed to the CLI.
 
-Lets redirect the _stdout_ of the `ls` command to be written in a new file. 
+Let's redirect the _stdout_ of the `ls` command to be written in a new file. 
 
 On your `~/workspace` folder execute:
 
@@ -30,5 +30,5 @@ You are already familiar with the `-a` option to print hidden _dotfiles_ and the
 
 We are introducing 2 more options: 
 
-1. `ls -h` to print file sizes in a human readable form. Meaning that it uses the _B_ suffix for _bytes_, the _k_ suffix for _kilobytes_, _M_ for _megabytes_ and so on.
+1. `ls -h` to print file sizes in a human readable form. Meaning that it uses the _B_ suffix for _bytes_, the _K_ suffix for _kilobytes_, _M_ for _megabytes_ and so on.
 2. `ls -F` to add a forward slash `/` to directories and other symbols to distinguish between normal and special files

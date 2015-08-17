@@ -2,7 +2,7 @@
 
 It is possible to combine the `echo` command with the `$(command)` special syntax which returns the output of another command as a string. 
 
-Lets understand this concept by trying out some examples: 
+Let's understand this concept by trying out some examples:
 
 __Output the current user together with a string:__
 

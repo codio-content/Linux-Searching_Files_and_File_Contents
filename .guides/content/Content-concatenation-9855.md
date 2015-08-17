@@ -28,5 +28,5 @@ cat <stdin> >> <stdout>
 ```
 __Definition:__ The `cat` command can also append standard inputs into the given _stdout_ file name by adding the `>>` output redirection utility.
 
-Standard inputs or _stdin_ for short can be text strings or files with content specified by its name.
+Standard inputs (or _stdin_ for short) can be text strings or files with content specified by its name.
 |||

@@ -1,6 +1,6 @@
 ## Looking for content
 
-If you can search for files and directories' information patterns, you can find content patterns as well.
+If you can search for files and directories information patterns, you can find content patterns as well.
 
 |||definition
 ### Command: 

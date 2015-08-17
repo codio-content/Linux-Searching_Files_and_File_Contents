@@ -2,7 +2,7 @@
 
 As you have experienced, Codio provides the interface to open and read files by clicking on them directly from the file tree. However, other development enviroments may not be as friendly as Codio's. 
 
-Lets __read the *file-list.txt* content__ by executing the following command. 
+Let's __read the *file-list.txt* content__ by executing the following command. 
 
 __TIP__: Try using the _tab autocompletion_ shortcut:
 

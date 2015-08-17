@@ -1,6 +1,6 @@
 ## Different ways of `find`ing files
 
-To better understand this concept, click on the terminal an execute these commands to see the results printed:
+To better understand this concept, click on the terminal and execute these commands to see the results printed:
 
 __Find the _hello.txt_ file location by name:__
 
@@ -23,7 +23,7 @@ __Find only file names that begin with the letter _h_ in the current directory :
 find . -type f -name "h*"
 ```
 
-__Find files location by size in the `.` current directory:__
+__Find files location greater than size in the `.` current directory:__
 
 ```
 # The '+' operator indicates greater than. 
@@ -46,3 +46,5 @@ find . -maxdepth 1 -not -type d -not -path "*/\.*" > found.txt
 ```
 
 With this last example, it is clear how a file system search can get as precise as you may want it to be. 
+
+__NOTE__: `-maxdepth 1` indicates that the `find` command is only going to search for files and directories inside the _first file-hierarchy level_.

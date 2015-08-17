@@ -1,6 +1,6 @@
 ## Changing the standard output
 
-The _program execution flow_ diagram we saw on previous units, represents the way that the CLI together with _bash_ takes an input called command which acts over a set of arguments and outputs the result of the process on a new line:
+The _program execution flow_ diagram we saw in previous units, represents the way that the CLI together with _bash_ takes an input called command which acts over a set of arguments and outputs the result of the process on a new line:
 
 ![program-process-flow](.guides/img/program-process-flow.png)
 

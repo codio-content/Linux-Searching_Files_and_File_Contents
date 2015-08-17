@@ -2,7 +2,7 @@
 
 Computer storage can get really messy as we create files and directories. 
 
-However, __if we know what we are looking for__, the `find` command can help us on getting the location of the specified files and directories' information in less than a second.
+However, __if we know what we are looking for__, the `find` command can help us by getting the location of the specified files and directories information in less than a second.
 
 |||definition
 ### Command: 

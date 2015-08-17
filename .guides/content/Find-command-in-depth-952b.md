@@ -23,12 +23,13 @@ __Find only file names that begin with the letter _h_ in the current directory :
 find . -type f -name "h*"
 ```
 
-__Find files location greater than size in the `.` current directory:__
+__Find the location of files in the current directory that are greater in size than 51 bytes:__
 
 ```
 # The '+' operator indicates greater than. 
 find . -size +51
 ```
+<small>You may specify _k_ for kilobytes, _M_ for megabytes and so on.</small>
 
 __Find files by modification time:__
 

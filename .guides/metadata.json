@@ -9,7 +9,7 @@
      "action": "close"
     },
     {
-     "path": "bashtest 4 | clear",
+     "path": "#terminal: bashtest 4 | clear",
      "panel": 0,
      "action": "open"
     }
@@ -221,11 +221,11 @@
   },
   {
    "id": "c2c71d6-714d-dc67-fd6d-ef78fb48ead1",
-   "title": "Shortcut: Command history search",
+   "title": "Shortcut",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Command-history-search-c2c7.md",
+   "content-file": ".guides/content/Shortcut-c2c7.md",
    "chapter": false,
    "reset": []
   },

@@ -91,7 +91,7 @@
      "action": "close"
     },
     {
-     "path": "cd project-log",
+     "path": "#terminal: mkdir project-log | cd project-log",
      "panel": 0,
      "action": "open"
     }

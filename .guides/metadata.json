@@ -91,7 +91,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: mkdir project-log | cd project-log",
+     "path": "#terminal: cd project-log",
      "panel": 0,
      "action": "open"
     }
@@ -108,7 +108,17 @@
   {
    "id": "44f470d4-8610-19ea-436e-146573f34a06",
    "title": "Practical uses of the > utility",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: cd ~/workspace",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
    "layout": "",
    "path": [],
    "type": "markdown",

@@ -1,3 +1,18 @@
 cli-4-2
 workspace-reset.sh ch-3-2
 cli-4-2
+workspace-reset.sh ch-3-2
+workspace-reset.sh ch-3-2
+workspace-reset.sh ch-3-2
+git a
+git c "Challenges files"
+git push
+workspace-reset.sh ch-3-2
+workspace-reset.sh ch-3-2
+workspace-reset.sh ch-3-2
+workspace-reset.sh ch-3-2
+cli-4-2
+echo -e "username: $(whoami)" >> project-log/changelog.txt
+cli-4-2
+cat project-log/file-list.txt >> project-log/changelog.txt
+cli-4-2

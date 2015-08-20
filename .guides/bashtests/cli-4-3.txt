@@ -1,11 +1,17 @@
 cli-4-3
-cli-4-3
-rm -r project-log/hidden-challenge.txt 
-clear
+find -maxdepth 1 -type f -path "h*" > project-log/files-with-h.txt
+find . -maxdepth 1 -type f -path "h*" > project-log/files-with-h.txt
+find /home/codio/workspace -maxdepth 1 -type f -path "h*" > project-log/files-with-h.txt
+find -maxdepth 1 -type f -path "h*" > project-log/files-with-h.txt
+find . -type f -path "h*" > project-log/files-with-h.txt
+find . -maxdepth 1 -type -f -path "h*" > project-log/files-with-h.txt
+find . -type f -maxdepth 1 -path "h*" > project-log/files-with-h.txt
+find . -maxdepth 1 -path "h*" -type f > project-log/files-with-h.txt
+find . -maxdepth 1 -type f
+find . -maxdepth 1 -type f -path "h*"
+find . -maxdepth 1 -type f -name "h*"
+find . -type f -maxdepth 1 -name "h*" > project-log/files-with-h.txt
 find . -maxdepth 1 -type f -name "h*" > project-log/files-with-h.txt
 cli-4-3
-cli-4-3
-cli-4-3
-cd project-log/
 find . -path "*.txt"
 cli-4-3

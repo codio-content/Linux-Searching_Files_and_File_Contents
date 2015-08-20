@@ -13,7 +13,7 @@ function init_workspace {
 
 function reset_workspace {
 	rm -r ${WORKSPACE}project-log
-  rm ${WORKSPACE}hello.txt ${WORKSPACE}hi.txt
+  rm ${WORKSPACE}hello.txt ${WORKSPACE}hi.txt ${WORKSPACE}file-list.txt ${WORKSPACE}found.txt ${WORKSPACE}greet.txt 
     > ~/.bash_history
 	echo "Reseting project files and directories"
 	sleep 2
@@ -46,7 +46,7 @@ case $arg in
     clear
     ;;
   ch-3-2 )
-    echo -e "Changelog\nVersion: 1.0" > ~/workspace/project-log/changelog.txt"
+    echo -e "Changelog\nVersion: 1.0" > ~/workspace/project-log/changelog.txt
     echo -e "hello.txt\nhi.txt\nproject-log" > ~/workspace/project-log/file-list.txt
     clear
     ;;
@@ -72,7 +72,16 @@ case $arg in
     if [[ ! -f ~/workspace/greet.txt ]]; then
       touch ~/workspace/greet.txt
     fi
-    echo -e "Changelog\nVersion: 1.0\nusername: codio\nhello.txt\nhi.txt\nproject-log" > ~/workspace/project-log/changelog.txt"
+    if [[ ! -f ~/workspace/hello.txt ]]; then
+      touch ~/workspace/hello.txt
+    fi
+    if [[ ! -f ~/workspace/hi.txt ]]; then
+      touch ~/workspace/hi.txt
+    fi
+    if [[ ! -d ~/workspace/project-log ]]; then
+      mkdir ~/workspace/project-log
+    fi
+    echo -e "Changelog\nVersion: 1.0\nusername: codio\nhello.txt\nhi.txt\nproject-log" > ~/workspace/project-log/changelog.txt
     clear
     ;;
 	* ) echo "'$arg' doesn't match any available arguments" 

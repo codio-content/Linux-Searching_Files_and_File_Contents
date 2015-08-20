@@ -20,7 +20,7 @@ Version names are associated with features being added or bugs being corrected, 
 
 |||guidance
 ### Correct answers
-1. `echo -e "Changelog\nVersion: 1.0 > project-log/changelog.txt"`
+1. `echo -e "Changelog\nVersion: 1.0" > project-log/changelog.txt`
 2. `ls > project-log/file-list.txt`
 
 |||

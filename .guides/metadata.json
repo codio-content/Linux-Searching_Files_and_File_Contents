@@ -74,11 +74,11 @@
   },
   {
    "id": "87109b72-1c24-1a3c-b586-aacb172a9f09",
-   "title": "The stdout redirection utility in depth",
+   "title": "Stdout in depth",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-stdout-redirection-utility-in-depth-8710.md",
+   "content-file": ".guides/content/Stdout-in-depth-8710.md",
    "chapter": false,
    "reset": []
   },
@@ -91,7 +91,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: cd project-log",
+     "path": "#terminal: workspace-reset.sh ch-1-5",
      "panel": 0,
      "action": "open"
     }
@@ -150,7 +150,18 @@
   {
    "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: workspace-reset.sh ch-3-2",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-ba3c.md",
@@ -181,7 +192,18 @@
   {
    "id": "109a74f4-fd69-b94a-1f83-8f442fe3ccf4",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: workspace-reset.sh ch-4-2",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-109a.md",
@@ -242,7 +264,18 @@
   {
    "id": "5b59b453-46cb-1ed6-d76e-adbf1d564ec1",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: workspace-reset.sh ch-5-5",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-5b59.md",

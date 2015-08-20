@@ -1,4 +1,4 @@
-# Enough file system commands to be twice as productive
+## Enough file system commands to be twice as productive
 
 If you followed along with the previous CLI units, you will now be familiar with files and directories creation (`mkdir`, `touch`), removal (`rmdir`, `rm -r`) , copying (`cp`), migration and renaming (`mv`) commands.
 

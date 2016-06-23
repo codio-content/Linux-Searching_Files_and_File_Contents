@@ -1,6 +1,2 @@
 Changelog
 Version: 1.0
-username: codio
-hello.txt
-hi.txt
-project-log

@@ -11,7 +11,7 @@
    },
    "name": "Find command",
    "instructions": "Evaluate your `find` command comprehension by completing the following tasks: \n\n1. In your `~/workspace` directory:\nFind - with a max directory depth of 1 - only the files that begin with the letter `h` and redirect the output to a `~/workspace/project-log/files-with-h.txt` file\n2. Enter the `~/workspace/project-log` directory and find all the files ending with the `.txt` pattern in the _current directory_\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
-   "command": "/home/codio/workspace/.guides/bashtests/cli-4-3.sh",
+   "command": "bash .guides/bashtests/cli-4-3.sh",
    "points": 1
   }
  },
@@ -27,7 +27,7 @@
    },
    "name": "Echo to files",
    "instructions": "By using the commands and utilities you just learned, complete the following tasks: \n\n1. In the `~/workspace/project-log` directory, create a file named _changelog.txt_ with the following content and format:\n\t```\n\tChangelog\n\tVersion: 1.0\n\t```\n2. Redirect the output of the `ls` command to a file named _file-list.txt_ in the `~/workspace/project-log` directory\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
-   "command": "/home/codio/workspace/.guides/bashtests/cli-4-1.sh",
+   "command": "bash .guides/bashtests/cli-4-1.sh",
    "points": 1
   }
  },
@@ -43,7 +43,7 @@
    },
    "name": "Content concatenation",
    "instructions": "Evaluate your content concatenation skills by completing the following tasks: \n\n1. Append the _current user_ to the `~/workspace/project-log/changelog.txt` file:\n\n\t```\n\tChangelog:\n\tVersion: 1.0\n\tusername: current_user\n\t```\n\t\n1. Append the `~/workspace/project-log/file-list.txt` file content to the `~/workspace/project-log/changelog.txt` file:\n\n\t```\n\tChangelog\n\tVersion: 1.0\n\tusername: current_user\n\thello.txt\n\thi.txt\n\tproject-log\n\t```\n\n__TIP__: Use the tab autocompletion shortcut\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
-   "command": "/home/codio/workspace/.guides/bashtests/cli-4-2.sh",
+   "command": "bash .guides/bashtests/cli-4-2.sh",
    "points": 1
   }
  },
@@ -59,7 +59,7 @@
    },
    "name": "Grep command",
    "instructions": "Test your `grep` command skills by completing the following tasks: \n\n1. Create a file named `diff.txt` inside your `~/workspace/project-log/` directory with the following format: \n\t```\n\tVersion: 2.0\n\tusername: current_user\n\t< ~/workspace directory visible content list >\n\t```\n2. _Grep_ the differences between the`~/workspace/project-log/changelog.txt` file content against the `~/workspace/project-log/diff.txt` file content and append the results to the `~/workspace/project-log/changelog.txt` file\n\n__TIP:__ Try using autocompletion shortcuts, relative paths and string interpolation\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
-   "command": "/home/codio/workspace/.guides/bashtests/cli-4-4.sh",
+   "command": "bash .guides/bashtests/cli-4-4.sh",
    "points": 1
   }
  }

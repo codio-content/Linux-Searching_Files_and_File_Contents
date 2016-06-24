@@ -9,7 +9,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: bashtest 4 | clear",
+     "path": "#terminal: clear",
      "panel": 0,
      "action": "open"
     }
@@ -19,7 +19,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Recap-efdd.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2881b745-a8ca-f537-9611-64c4d812f27",
@@ -29,7 +30,8 @@
    "type": "markdown",
    "content-file": ".guides/content/What-we-ll-learn-2881.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "1acb3e8c-2f87-6737-70b5-82b637ca987",
@@ -40,7 +42,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Printing-out-information-1acb.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "11dd2a9c-fbf2-79b4-c8a8-49aba0aeb308",
@@ -50,7 +53,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Outputting-strings-to-a-file-11dd.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "4e3518f7-59a6-f032-fa25-dbfa263d58bb",
@@ -60,7 +64,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Echoing-command-outputs-4e35.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "e7b84f-2fee-ae8d-9bc5-fcab7e54859b",
@@ -70,7 +75,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Echoing-to-a-file-e7b8.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "87109b72-1c24-1a3c-b586-aacb172a9f09",
@@ -80,7 +86,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Stdout-in-depth-8710.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "543e697c-5275-894b-96e9-b3e3870ed81",
@@ -103,7 +110,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-543e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "44f470d4-8610-19ea-436e-146573f34a06",
@@ -124,7 +132,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Practical-uses-of-the---utility-44f4.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "8f01f911-d2a5-e56b-fed-e4f41d39637b",
@@ -135,7 +144,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Reading-file-content-in-the-CLI-8f01.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "9855f5b3-aed2-cdd4-9930-2b403fa582cc",
@@ -145,7 +155,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Content-concatenation-9855.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
@@ -166,7 +177,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-ba3c.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "93f2c2df-de85-30c2-3c94-8d023386ee5f",
@@ -177,7 +189,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Finding-files-and-directories-93f2.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "952b6d8-29da-998e-da87-fa40439e86bd",
@@ -187,7 +200,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Find-command-in-depth-952b.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "109a74f4-fd69-b94a-1f83-8f442fe3ccf4",
@@ -208,7 +222,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-109a.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "460e3327-b808-5182-c47d-b222caa1e0e",
@@ -219,7 +234,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Finding-file-content-460e.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "fddee3a-3ec4-9422-3e0-1301717f83cc",
@@ -229,7 +245,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Grep-command-in-depth-fdde.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "1c275e3-a149-44fc-b8a7-14bc83954dba",
@@ -239,7 +256,8 @@
    "type": "markdown",
    "content-file": ".guides/content/More-about-grep-1c27.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "dca6b21-11f9-ec77-2a13-873875a3433d",
@@ -249,7 +267,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Combining-commands-dca6.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c2c71d6-714d-dc67-fd6d-ef78fb48ead1",
@@ -259,7 +278,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Shortcut-c2c7.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "5b59b453-46cb-1ed6-d76e-adbf1d564ec1",
@@ -280,7 +300,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenge-5b59.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "87149d05-fb4f-c124-1a9b-5bd2c885404",
@@ -290,7 +311,8 @@
    "type": "markdown",
    "content-file": ".guides/content/That-s-all-folks-8714.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "charcoal",

@@ -1,5 +1,5 @@
 #!/bin/bash
-# echo test
+. ~/workspace/.guides/bashtests/function.sh
 
 bash_history=~/.bash_history
 BASHDIR=/home/codio/workspace/.guides

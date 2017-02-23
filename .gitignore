@@ -1,6 +1,7 @@
 .guides/assessmentsAnswers.json
 .guides/bashtests/*.txt
-
+.project-log/changelog.txt
+.project-log/file-list.txt
 hello.txt
 hi.txt
 file-list.txt

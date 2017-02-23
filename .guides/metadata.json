@@ -114,17 +114,15 @@
    "title": "Practical uses of the > utility",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "#terminal: . .guides/bashtests/init.sh ; cd ~/workspace ; clear",
      "panel": 0,
      "action": "open"
     }
    ],
    "layout": "",
-   "path": [],
+   "path": [
+    "{reset}"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Practical-uses-of-the---utility-44f4.md",
    "chapter": true,

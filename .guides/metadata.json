@@ -94,10 +94,6 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
      "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-1-5",
      "panel": 0,
      "action": "open"
@@ -105,7 +101,7 @@
    ],
    "layout": "2-panels-tree",
    "path": [
-    "~/workspace/project-log"
+    "project-log"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-543e.md",
@@ -317,5 +313,6 @@
  ],
  "theme": "charcoal",
  "scripts": [],
- "lexikonTopic": ""
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
 }

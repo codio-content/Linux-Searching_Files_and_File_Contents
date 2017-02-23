@@ -9,7 +9,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: clear",
+     "path": "#terminal: . .guides/bashtests/init.sh ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -98,7 +98,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: workspace-reset.sh ch-1-5",
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-1-5",
      "panel": 0,
      "action": "open"
     }
@@ -122,7 +122,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: cd ~/workspace",
+     "path": "#terminal: . .guides/bashtests/init.sh ; cd ~/workspace",
      "panel": 0,
      "action": "open"
     }
@@ -167,7 +167,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: workspace-reset.sh ch-3-2",
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-3-2 ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -212,7 +212,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: workspace-reset.sh ch-4-2",
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-4-2",
      "panel": 0,
      "action": "open"
     }
@@ -290,7 +290,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: workspace-reset.sh ch-5-5",
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-5-5",
      "panel": 0,
      "action": "open"
     }

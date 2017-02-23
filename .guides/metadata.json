@@ -94,7 +94,7 @@
    "title": "Challenge",
    "files": [
     {
-     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-1-5",
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-1-5 ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -118,7 +118,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: . .guides/bashtests/init.sh ; cd ~/workspace",
+     "path": "#terminal: . .guides/bashtests/init.sh ; cd ~/workspace ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -208,7 +208,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-4-2",
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-4-2 ; clear",
      "panel": 0,
      "action": "open"
     }
@@ -286,7 +286,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-5-5",
+     "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-5-5; clear",
      "panel": 0,
      "action": "open"
     }

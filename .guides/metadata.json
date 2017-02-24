@@ -94,6 +94,10 @@
    "title": "Challenge",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": "#terminal: . .guides/bashtests/init.sh ; .guides/bashtests/workspace-reset.sh ch-1-5 ; clear",
      "panel": 0,
      "action": "open"
@@ -132,7 +136,12 @@
   {
    "id": "8f01f911-d2a5-e56b-fed-e4f41d39637b",
    "title": "Reading file content in the CLI",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "",
    "path": [],
    "type": "markdown",

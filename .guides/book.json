@@ -1,0 +1,146 @@
+{
+ "name": "Linux-Searching_Files_and_File_Contents",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "efdda24a-39c9-f704-4b9d-af6bb6c723c4",
+   "pageId": "efdda24a-39c9-f704-4b9d-af6bb6c723c4",
+   "type": "page"
+  },
+  {
+   "title": "What we'll learn",
+   "id": "2881b745-a8ca-f537-9611-64c4d812f27",
+   "pageId": "2881b745-a8ca-f537-9611-64c4d812f27",
+   "type": "page"
+  },
+  {
+   "title": "Printing out information",
+   "id": "1acb3e8c-2f87-6737-70b5-82b637ca987",
+   "pageId": "1acb3e8c-2f87-6737-70b5-82b637ca987",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Outputting strings to a file",
+     "id": "11dd2a9c-fbf2-79b4-c8a8-49aba0aeb308",
+     "pageId": "11dd2a9c-fbf2-79b4-c8a8-49aba0aeb308",
+     "type": "page"
+    },
+    {
+     "title": "Echoing command outputs",
+     "id": "4e3518f7-59a6-f032-fa25-dbfa263d58bb",
+     "pageId": "4e3518f7-59a6-f032-fa25-dbfa263d58bb",
+     "type": "page"
+    },
+    {
+     "title": "Echoing to a file",
+     "id": "e7b84f-2fee-ae8d-9bc5-fcab7e54859b",
+     "pageId": "e7b84f-2fee-ae8d-9bc5-fcab7e54859b",
+     "type": "page"
+    },
+    {
+     "title": "Stdout in depth",
+     "id": "87109b72-1c24-1a3c-b586-aacb172a9f09",
+     "pageId": "87109b72-1c24-1a3c-b586-aacb172a9f09",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "543e697c-5275-894b-96e9-b3e3870ed81",
+     "pageId": "543e697c-5275-894b-96e9-b3e3870ed81",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Practical uses of the > utility",
+   "id": "44f470d4-8610-19ea-436e-146573f34a06",
+   "pageId": "44f470d4-8610-19ea-436e-146573f34a06",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Reading file content in the CLI",
+   "id": "8f01f911-d2a5-e56b-fed-e4f41d39637b",
+   "pageId": "8f01f911-d2a5-e56b-fed-e4f41d39637b",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Content concatenation",
+     "id": "9855f5b3-aed2-cdd4-9930-2b403fa582cc",
+     "pageId": "9855f5b3-aed2-cdd4-9930-2b403fa582cc",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
+     "pageId": "ba3c99d1-710a-789d-e08f-b8a0528792cd",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Finding files and directories",
+   "id": "93f2c2df-de85-30c2-3c94-8d023386ee5f",
+   "pageId": "93f2c2df-de85-30c2-3c94-8d023386ee5f",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Find command in depth",
+     "id": "952b6d8-29da-998e-da87-fa40439e86bd",
+     "pageId": "952b6d8-29da-998e-da87-fa40439e86bd",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "109a74f4-fd69-b94a-1f83-8f442fe3ccf4",
+     "pageId": "109a74f4-fd69-b94a-1f83-8f442fe3ccf4",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Finding file content",
+   "id": "460e3327-b808-5182-c47d-b222caa1e0e",
+   "pageId": "460e3327-b808-5182-c47d-b222caa1e0e",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Grep command in depth",
+     "id": "fddee3a-3ec4-9422-3e0-1301717f83cc",
+     "pageId": "fddee3a-3ec4-9422-3e0-1301717f83cc",
+     "type": "page"
+    },
+    {
+     "title": "More about grep",
+     "id": "1c275e3-a149-44fc-b8a7-14bc83954dba",
+     "pageId": "1c275e3-a149-44fc-b8a7-14bc83954dba",
+     "type": "page"
+    },
+    {
+     "title": "Combining commands",
+     "id": "dca6b21-11f9-ec77-2a13-873875a3433d",
+     "pageId": "dca6b21-11f9-ec77-2a13-873875a3433d",
+     "type": "page"
+    },
+    {
+     "title": "Shortcut",
+     "id": "c2c71d6-714d-dc67-fd6d-ef78fb48ead1",
+     "pageId": "c2c71d6-714d-dc67-fd6d-ef78fb48ead1",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "5b59b453-46cb-1ed6-d76e-adbf1d564ec1",
+     "pageId": "5b59b453-46cb-1ed6-d76e-adbf1d564ec1",
+     "type": "page"
+    },
+    {
+     "title": "That's all folks",
+     "id": "87149d05-fb4f-c124-1a9b-5bd2c885404",
+     "pageId": "87149d05-fb4f-c124-1a9b-5bd2c885404",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
